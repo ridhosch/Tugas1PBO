@@ -71,11 +71,11 @@ data mahasiswa, dan pengujiannya dilakukan di file `Aplikasi`.
 
 #### Hasil Run Java
 
-![Hasil run Java](02-Constructor\image\RunJava.png)
+![Hasil run Java](02-Constructor/image/RunJava.png)
 
 #### Hasil Run PHP
 
-![Hasil run PHP](02-Constructor\image\RunPHP.png)
+![Hasil run PHP](02-Constructor/image/RunPHP.png)
 
 ---
 
@@ -97,15 +97,15 @@ dan method `tampilkanInfo()` di-override agar ikut menampilkan negara asal.
 
 #### Hasil Run Java
 
-![Hasil run Java Bangun Datar](03-inheritance\image\RunJavaApp.png)
+![Hasil run Java Bangun Datar](03-inheritance/image/RunJavaApp.png)
 
 ![Hasil run Java Mahasiswa](03-inheritance/image/RunJava.png)
 
 #### Hasil Run PHP
 
-![Hasil run PHP Bangun Datar](03-inheritance\image\RunPHPapp.png)
+![Hasil run PHP Bangun Datar](03-inheritance/image/RunPHPapp.png)
 
-![Hasil run PHP Mahasiswa](03-inheritance\image\RunPHPMain.png)
+![Hasil run PHP Mahasiswa](03-inheritance/image/RunPHPMain.png)
 
 ---
 
@@ -128,11 +128,11 @@ objectnya, dan pengecekan tipe dilakukan sebelum method khusus dijalankan.
 
 #### Hasil Run Java
 
-![Hasil run Java](04-polymorphism\image\RunJava.png)
+![Hasil run Java](04-polymorphism/image/RunJava.png)
 
 #### Hasil Run PHP
 
-![Hasil run PHP](04-polymorphism\image\RunPHP.png)
+![Hasil run PHP](04-polymorphism/image/RunPHP.png)
 
 ---
 
@@ -153,11 +153,11 @@ Program ini memperlihatkan tiga bentuk hubungan antar-object:
 
 #### Hasil Run Java
 
-![Hasil run Java](05-asosiasikomposisi\image\RunJava.png)
+![Hasil run Java](05-asosiasikomposisi/image/RunJava.png)
 
 #### Hasil Run PHP
 
-![Hasil run PHP](05-asosiasikomposisi\image\RunPHP.png)
+![Hasil run PHP](05-asosiasikomposisi/image/RunPHP.png)
 
 ---
 
@@ -178,8 +178,8 @@ dapat menampilkan informasi dari `Vehicle`.
 
 #### Hasil Run Java
 
-![Hasil run Java](06-abstractinterface\image\RunJava.png)
+![Hasil run Java](06-abstractinterface/image/RunJava.png)
 
 #### Hasil Run PHP
 
-![Hasil run PHP](06-abstractinterface\image\RunPHP.png)
+![Hasil run PHP](06-abstractinterface/image/RunPHP.png)
