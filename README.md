@@ -99,7 +99,7 @@ dan method `tampilkanInfo()` di-override agar ikut menampilkan negara asal.
 
 ![Hasil run Java Bangun Datar](03-inheritance/image/RunJavaApp.png)
 
-![Hasil run Java Mahasiswa](03-inheritance/image/RunJava.png)
+![Hasil run Java Mahasiswa](03-inheritance/image/RunJavaMain.png)
 
 #### Hasil Run PHP
 
